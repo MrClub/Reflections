@@ -5,3 +5,7 @@ it creates the metadata folder .git to track changes in directory.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It allows you to play around with what you actually want commited.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+by doublke checking before commiting
