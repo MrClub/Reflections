@@ -9,3 +9,11 @@ It allows you to play around with what you actually want commited.
 How can you use the staging area to make sure you have one commit per logical change?
 
 by doublke checking before commiting
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when you want to make experimental changes or vast changes.
+
+How do the diagrams help you visualize the branch structure?
+
+that questions answers itself - because you can visualise it!
