@@ -4,3 +4,7 @@ Maybe when multiple people are working on a single file and you want to push it 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 the remote repoitory might be a full production version and you dont want people to see changes yet
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork - a copy between two repositories on github. CLone - a copy from github to local. Branches - split a repository
